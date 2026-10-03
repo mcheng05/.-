@@ -1,4 +1,4 @@
-# .-
+# Schadner Explicit Black-Scholes IV Solution
 based off https://arxiv.org/pdf/2604.24480v4
 Summary of results in schadner_results_summary.ipynb
 
